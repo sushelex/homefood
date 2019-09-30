@@ -15,4 +15,10 @@ public void getAddress()
 {
 	System.out.println("this is to print the address");
 }
+
+@Test(priority = 2)
+public void getSalary()
+{
+	System.out.println("this is to print the salary");
+}
 }
