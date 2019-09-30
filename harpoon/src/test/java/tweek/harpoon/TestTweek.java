@@ -9,4 +9,10 @@ public void getName()
 {
 	System.out.println("this is tweek test");
 }
+
+@Test(priority = 1)
+public void getAddress()
+{
+	System.out.println("this is to print the address");
+}
 }
