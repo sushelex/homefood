@@ -19,6 +19,6 @@ public void getAddress()
 @Test(priority = 2)
 public void getSalary()
 {
-	System.out.println("this is to print the salary");
+	System.out.println("this is to print the salary123");
 }
 }
