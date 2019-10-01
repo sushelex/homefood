@@ -21,4 +21,10 @@ public void getSalary()
 {
 	System.out.println("this is to print the salary123");
 }
+
+@Test(priority = 3)
+public void getBank()
+{
+	System.out.println("this is to print the respective bank details");
+}
 }
