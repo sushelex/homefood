@@ -10,4 +10,9 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+    
+    public void testName()
+    {
+    	System.out.println("itd testName method");
+    }
 }
