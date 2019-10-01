@@ -27,4 +27,10 @@ public void getBank()
 {
 	System.out.println("this is to print the respective bank details");
 }
+@Test(priority = 4)
+public void getPassword()
+{
+	System.out.println("this is to print the respective bank details and password");
+}
+
 }
